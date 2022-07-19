@@ -34,3 +34,4 @@ const booleanNumber = (num) => {
 };
 
 console.log(booleanNumber(30));
+//TESt
